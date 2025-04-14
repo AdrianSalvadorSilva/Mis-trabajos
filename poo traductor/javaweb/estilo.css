@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+h1{
+    font-size: 28ptx;
+    text-shadow: 5ptx 5pt 2ptx aqua;
+}
+button{
+    background-color: rgb(6, 162, 58);
+    color: aliceblue;
+    border-radius: 5px;
+}
+section{
+    color: rgb(63, 63, 146);
+    width: 100ptx;
+}
+.ancho-medio{ width: 250px;}
